@@ -1,3 +1,4 @@
+[Copy of Split Brains, Julian Jaynes_ The need for Neuroscience in Indology.pdf](https://github.com/vishvAsa/AgamaH/files/8647628/Copy.of.Split.Brains.Julian.Jaynes_.The.need.for.Neuroscience.in.Indology.pdf)
 +++
 title = "Split-brain Anand venkaTarAman talk"
 +++
